@@ -1,0 +1,10 @@
+{
+  "aboutThisFile": "https://docs.plasmic.app/learn/loader-config",
+  "projects": [
+    {
+      "projectId": "fDhLUxYW8dUcRiPd39SGAH",
+      "projectApiToken": "nQEh06N9b6ZvtGlQybKnKhwZmfM00ADXEBq9z0n68U6oqITVsUrkYUScHgAwNhAUVQ1ZkwZ5kpu0TR6TPIw"
+    }
+  ],
+  "$schema": "./node_modules/@plasmicapp/loader/plasmic-loader.schema.json"
+}
